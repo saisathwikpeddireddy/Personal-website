@@ -42,5 +42,5 @@ Just download and:
 - `experience.html` - My work experience
 - `projects.html` - My projects page
 - `contact.html` - Contact page
-- `static/css/styles.css` - All the styles
-- `static/js/main.js` - JavaScript stuff
+- `styles.css` - All the styles
+- `main.js` - JavaScript stuff
